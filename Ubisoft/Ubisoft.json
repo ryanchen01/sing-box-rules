@@ -1,0 +1,16 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [
+          "uplaypc-s-ubisoft.cdn.ubi.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Ubisoft"
+      }
+    ]
+  }
+}

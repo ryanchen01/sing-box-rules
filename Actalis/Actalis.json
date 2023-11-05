@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "actalis.com",
+          "actalis.it"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Actalis"
+      }
+    ]
+  }
+}

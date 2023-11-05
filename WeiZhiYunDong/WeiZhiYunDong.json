@@ -1,0 +1,21 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "dicom365.com",
+          "dycom365.com",
+          "wedcm.com",
+          "weiyunyingxiang.com"
+        ],
+        "domain": [
+          "weizhiyundong.list"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "WeiZhiYunDong"
+      }
+    ]
+  }
+}

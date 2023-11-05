@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "baijii.com",
+          "jianshu.com",
+          "jianshu.io",
+          "jianshuapi.com",
+          "shengmingfa.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "JianShu"
+      }
+    ]
+  }
+}

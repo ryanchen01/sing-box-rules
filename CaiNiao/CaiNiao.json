@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "56che.com",
+          "cainiao-inc.cn",
+          "cainiao-inc.com",
+          "cainiao-inc.net",
+          "cainiao.com",
+          "cainiao.com.cn",
+          "cainiaoyizhan.com",
+          "guoguo-app.com",
+          "xiaog.xyz"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "CaiNiao"
+      }
+    ]
+  }
+}

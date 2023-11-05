@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "gog-statics.com",
+          "gog.com",
+          "gog.qtlglb.com"
+        ],
+        "domain": [
+          "gog.salesmanago.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Gog"
+      }
+    ]
+  }
+}

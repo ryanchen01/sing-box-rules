@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "xiami.com",
+          "xiami.fm",
+          "xiami.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "XiamiMusic"
+      }
+    ]
+  }
+}

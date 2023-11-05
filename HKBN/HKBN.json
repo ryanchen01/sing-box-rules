@@ -1,0 +1,21 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "csifund.org",
+          "hkbn.com.hk",
+          "hkbn.net",
+          "hkbnes.net",
+          "jos.com",
+          "speedtest.com.hk"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "HKBN"
+      }
+    ]
+  }
+}

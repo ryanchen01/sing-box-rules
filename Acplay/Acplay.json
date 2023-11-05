@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "acplay.net",
+          "dandanplay.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Acplay"
+      }
+    ]
+  }
+}

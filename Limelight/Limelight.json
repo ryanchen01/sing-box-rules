@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "delvenetworks.com",
+          "limelight.com",
+          "lldns.net",
+          "llnw-trials.com",
+          "llnw.com",
+          "llnw.net",
+          "llnwd.net",
+          "llnwi.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Limelight"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "malayalamanorama.com",
+          "manorama.com",
+          "manoramanews.com",
+          "manoramaonline.com",
+          "manoramayearbook.in",
+          "onmanorama.com",
+          "radiomango.fm",
+          "theman.in",
+          "theweek.in",
+          "vanitaonline.com",
+          "vanitha.in",
+          "vanithaveedu.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Manorama"
+      }
+    ]
+  }
+}

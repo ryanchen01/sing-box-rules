@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "hkgolden.com",
+          "hkgolden.media"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Hkgolden"
+      }
+    ]
+  }
+}

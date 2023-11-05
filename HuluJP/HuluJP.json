@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "happyon.jp",
+          "hjholdings.jp",
+          "hulu.jp",
+          "streaks.jp",
+          "yb.uncn.jp"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "HuluJP"
+      }
+    ]
+  }
+}

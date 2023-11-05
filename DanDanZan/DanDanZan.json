@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "343480.com",
+          "baduziyuan.com",
+          "com-hs-hkdy.com",
+          "czybjz.com",
+          "dandanzan.cc",
+          "dandanzan.com",
+          "fjhps.com",
+          "kuyunbo.club",
+          "nunuyy.cc"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "DanDanZan"
+      }
+    ]
+  }
+}

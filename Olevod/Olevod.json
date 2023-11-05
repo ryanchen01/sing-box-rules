@@ -1,0 +1,21 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "haiwaikan.com",
+          "iole.tv",
+          "olehd.com",
+          "olelive.com"
+        ],
+        "domain": [],
+        "domain_keyword": [
+          "olevod"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Olevod"
+      }
+    ]
+  }
+}

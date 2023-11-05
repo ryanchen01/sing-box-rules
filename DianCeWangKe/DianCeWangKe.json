@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "pgyer.cc",
+          "pgyer.com",
+          "pgyer.im",
+          "qcers.com",
+          "qcers.net",
+          "testin.im",
+          "tracup.com",
+          "xcxwo.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "DianCeWangKe"
+      }
+    ]
+  }
+}

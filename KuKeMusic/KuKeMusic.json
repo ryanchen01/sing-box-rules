@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "kuke.com",
+          "kukey.com.cn",
+          "naxos.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "KuKeMusic"
+      }
+    ]
+  }
+}

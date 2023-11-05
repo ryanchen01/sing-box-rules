@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "a-map.cn",
+          "a-map.co",
+          "a-map.link",
+          "a-map.vip",
+          "amap.com",
+          "amapauto.com",
+          "anav.com",
+          "autonavi.com",
+          "gaode.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "GaoDe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "pm.me",
+          "proton.me",
+          "protonmail.ch",
+          "protonmail.com",
+          "protonstatus.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Protonmail"
+      }
+    ]
+  }
+}

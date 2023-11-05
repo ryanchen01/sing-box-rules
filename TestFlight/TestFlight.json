@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [
+          "beta.apple.com",
+          "testflight.apple.com"
+        ],
+        "domain_keyword": [
+          "testflight"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "TestFlight"
+      }
+    ]
+  }
+}

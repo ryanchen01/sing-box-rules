@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "freedomplatform.tv",
+          "londonreal.tv"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "LondonReal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "antiy.cn",
+          "antiy.com",
+          "antiy.net.cn",
+          "antiycloud.com",
+          "avlinsight.com",
+          "avlsec.com",
+          "avlyun.cn",
+          "avlyun.com",
+          "avlyun.net",
+          "avlyun.org",
+          "cloud-backup.com.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "AnTianKeJi"
+      }
+    ]
+  }
+}

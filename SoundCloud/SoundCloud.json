@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "p-cdn.us",
+          "sndcdn.com",
+          "soundcloud.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "SoundCloud"
+      }
+    ]
+  }
+}

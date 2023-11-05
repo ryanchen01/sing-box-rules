@@ -1,0 +1,29 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "le.com",
+          "lecloud.com",
+          "lelecdn.com",
+          "lemall.com",
+          "letv.allyes.com",
+          "letv.com",
+          "letv8.com",
+          "letvcdn.com",
+          "letvcloud.com",
+          "letvimg.com",
+          "letvlive.com",
+          "letvstore.com",
+          "sanguowudi.com",
+          "videougc.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "LeTV"
+      }
+    ]
+  }
+}

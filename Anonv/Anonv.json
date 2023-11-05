@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "anon-v.com",
+          "anon-v.lol"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Anonv"
+      }
+    ]
+  }
+}

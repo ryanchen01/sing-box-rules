@@ -1,0 +1,28 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "shenma-inc.com",
+          "sm.cn",
+          "smapi.cn",
+          "uczzd.cn",
+          "uczzd.com",
+          "uczzd.com.cn",
+          "uczzd.net",
+          "xiaoshuo1-sm.com",
+          "xiaoshuo2-sm.com",
+          "xiaoshuo3-sm.com",
+          "xiaoshuo4-sm.com",
+          "xiaoshuo5-sm.com",
+          "yisou.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ShenMa"
+      }
+    ]
+  }
+}

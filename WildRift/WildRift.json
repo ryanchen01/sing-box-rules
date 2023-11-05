@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "pvp.net",
+          "riotcdn.net",
+          "riotgames.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "WildRift"
+      }
+    ]
+  }
+}

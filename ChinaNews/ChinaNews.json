@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "chinanews.com",
+          "chinanews.com.cn",
+          "cns.com.cn",
+          "ecns.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ChinaNews"
+      }
+    ]
+  }
+}

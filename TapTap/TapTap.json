@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "tap.io",
+          "tapimg.com",
+          "taptap.com",
+          "taptap.tw"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "TapTap"
+      }
+    ]
+  }
+}

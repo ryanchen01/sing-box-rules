@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "amazontrust.com",
+          "awstrust.com",
+          "ss2.us"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "AmazonTrust"
+      }
+    ]
+  }
+}

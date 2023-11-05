@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "apkpure.com",
+          "cdnpure.com",
+          "pureapk.com",
+          "winudf.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Apkpure"
+      }
+    ]
+  }
+}

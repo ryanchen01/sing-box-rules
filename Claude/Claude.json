@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "anthropic.com",
+          "claude.ai"
+        ],
+        "domain": [
+          "cdn.usefathom.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Claude"
+      }
+    ]
+  }
+}

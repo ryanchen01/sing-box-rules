@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "gitbook.com",
+          "gitbook.io",
+          "gitbook.zendesk.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "GitBook"
+      }
+    ]
+  }
+}

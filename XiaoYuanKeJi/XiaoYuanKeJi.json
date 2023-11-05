@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "10010mx.com",
+          "5gimos.com",
+          "bizport.cn",
+          "mfexcel.com",
+          "microfountain.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "XiaoYuanKeJi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "coolapk.com",
+          "coolapkmarket.com",
+          "coolapkmarket.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Coolapk"
+      }
+    ]
+  }
+}

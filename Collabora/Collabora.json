@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "collabora.co.uk",
+          "collabora.com",
+          "collabora.org",
+          "collaboraoffice.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Collabora"
+      }
+    ]
+  }
+}

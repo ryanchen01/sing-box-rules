@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "calorietech.com",
+          "gotokeep.com",
+          "keep.com",
+          "keep.com.cn",
+          "keepcdn.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Keep"
+      }
+    ]
+  }
+}

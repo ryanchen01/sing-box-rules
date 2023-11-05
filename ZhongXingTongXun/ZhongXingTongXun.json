@@ -1,0 +1,25 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "zte.com.cn",
+          "zte.net",
+          "ztedevice.com",
+          "ztedevice.com.cn",
+          "ztedevices.com",
+          "ztehotel.com",
+          "ztehotel.com.cn",
+          "ztehotel.net",
+          "ztems.com",
+          "zxingyun.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ZhongXingTongXun"
+      }
+    ]
+  }
+}

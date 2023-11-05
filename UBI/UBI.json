@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "ubi.com",
+          "ubisoft-orbit-savegames.s3.amazonaws.com",
+          "ubisoft-uplay-savegames.s3.amazonaws.com",
+          "ubisoft.com",
+          "uplay.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "UBI"
+      }
+    ]
+  }
+}

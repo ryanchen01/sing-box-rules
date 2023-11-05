@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "8btc.com",
+          "bystack.com",
+          "chainnode.com",
+          "matpool.com",
+          "matpool.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "8btc"
+      }
+    ]
+  }
+}

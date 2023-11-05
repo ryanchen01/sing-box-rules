@@ -1,0 +1,25 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "95599.cn",
+          "abc-studios.com",
+          "abc.com",
+          "abchina.com",
+          "bscabank.com",
+          "edgedatg.com",
+          "go.com",
+          "openaboc.cn",
+          "openaboc.com",
+          "openaboc.com.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ABC"
+      }
+    ]
+  }
+}

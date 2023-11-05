@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "pimg.tw",
+          "pixanalytics.com",
+          "pixfs.net",
+          "pixinsight.com.tw",
+          "pixnet.cc",
+          "pixnet.net",
+          "pixnet.pro",
+          "pixnet.tw",
+          "pixplug.in"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Pixnet"
+      }
+    ]
+  }
+}

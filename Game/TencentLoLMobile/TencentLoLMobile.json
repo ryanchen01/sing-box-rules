@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "riotcdn.net",
+          "riotgames.com",
+          "wr.pvp.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "TencentLoLMobile"
+      }
+    ]
+  }
+}

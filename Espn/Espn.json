@@ -1,0 +1,27 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "dtci.co",
+          "dtci.technology",
+          "espn.co.uk",
+          "espn.com",
+          "espn.net",
+          "espncdn.com",
+          "espnqa.com",
+          "watchespn.com"
+        ],
+        "domain": [
+          "espn.api.edge.bamgrid.com",
+          "espn.hb.omtrdc.net",
+          "espndotcom.tt.omtrdc.net"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Espn"
+      }
+    ]
+  }
+}

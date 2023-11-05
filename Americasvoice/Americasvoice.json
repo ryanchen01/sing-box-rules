@@ -1,0 +1,16 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "americasvoice.news"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Americasvoice"
+      }
+    ]
+  }
+}

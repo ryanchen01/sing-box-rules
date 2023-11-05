@@ -1,0 +1,34 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "bkrent.cn",
+          "g1d.net",
+          "iptv.com.cn",
+          "jiwunote.com.cn",
+          "kidkk.cn",
+          "kidpp.cn",
+          "kidsn.cn",
+          "kidyy.cn",
+          "pplive.cn",
+          "pplive.com",
+          "pplive.com.cn",
+          "pplive.net",
+          "pptv.com",
+          "pptvdata.com",
+          "pptvimg.com",
+          "pptvnet.com",
+          "pptvyun.com",
+          "snrent.cn",
+          "synacast.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "PPTV"
+      }
+    ]
+  }
+}

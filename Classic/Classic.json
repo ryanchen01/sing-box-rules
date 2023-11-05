@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [
+          "asia.battle.net",
+          "europe.battle.net",
+          "useast.battle.net",
+          "uswest.battle.net"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Classic"
+      }
+    ]
+  }
+}

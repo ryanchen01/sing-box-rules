@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [
+          "apps.apple.com",
+          "itunes.apple.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "AppStore"
+      }
+    ]
+  }
+}

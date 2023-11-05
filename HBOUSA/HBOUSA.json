@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "cinemax.com",
+          "hbomax.com",
+          "hbomaxcdn.com",
+          "hbomaxdash.s.llnwi.net",
+          "hbonow.com",
+          "maxgo.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [
+          "com.hbo.hbonow"
+        ],
+        "outbound": "HBOUSA"
+      }
+    ]
+  }
+}

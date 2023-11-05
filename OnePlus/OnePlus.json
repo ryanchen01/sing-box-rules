@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "h2os.com",
+          "oneplus.cn",
+          "oneplus.com",
+          "oneplus.net",
+          "oneplusbbs.com",
+          "oneplusmobile.com",
+          "opstatics.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "OnePlus"
+      }
+    ]
+  }
+}

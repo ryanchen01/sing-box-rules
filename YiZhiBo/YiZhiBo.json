@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "hifengli.com",
+          "liexiulive.com",
+          "sndks.com",
+          "yizhibo.com",
+          "yzbo.tv"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "YiZhiBo"
+      }
+    ]
+  }
+}

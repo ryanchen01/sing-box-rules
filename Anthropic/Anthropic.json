@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "anthropic.com",
+          "claude.ai"
+        ],
+        "domain": [
+          "servd-anthropic-website.b-cdn.net"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Anthropic"
+      }
+    ]
+  }
+}

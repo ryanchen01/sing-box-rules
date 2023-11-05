@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "gitlab-assets.oss-cn-hongkong.aliyuncs.com",
+          "gitlab-static.net",
+          "gitlab.com",
+          "gitlab.io",
+          "gitlab.net",
+          "gitter-static.net",
+          "gitter.im"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "GitLab"
+      }
+    ]
+  }
+}

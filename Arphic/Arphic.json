@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "arphic.com",
+          "arphic.com.cn",
+          "arphic.com.tw",
+          "ifontcloud.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Arphic"
+      }
+    ]
+  }
+}

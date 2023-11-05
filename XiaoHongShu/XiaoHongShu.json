@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "fengkongcloud.com",
+          "xhscdn.com",
+          "xiaohongshu.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "XiaoHongShu"
+      }
+    ]
+  }
+}

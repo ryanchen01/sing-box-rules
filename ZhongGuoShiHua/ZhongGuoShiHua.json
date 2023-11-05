@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "sinopec-usa.com",
+          "sinopec.com",
+          "sinopecgroup.com",
+          "sinopecnews.com.cn",
+          "sinopecsales.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ZhongGuoShiHua"
+      }
+    ]
+  }
+}

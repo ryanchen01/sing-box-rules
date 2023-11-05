@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "dmc.nico",
+          "nicodic.jp",
+          "nicomanga.jp",
+          "niconico.com",
+          "nicoseiga.jp",
+          "nicovideo.jp",
+          "nimg.jp",
+          "simg.jp",
+          "socdm.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Niconico"
+      }
+    ]
+  }
+}

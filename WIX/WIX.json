@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "editorx.com",
+          "parastorage.com",
+          "wix-code.com",
+          "wix.com",
+          "wixanswers.com",
+          "wixapps.net",
+          "wixmp.com",
+          "wixsite.com",
+          "wixstatic.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "WIX"
+      }
+    ]
+  }
+}

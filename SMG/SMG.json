@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "cptn.tv",
+          "sava.sh.cn",
+          "smg.cn",
+          "smg.sh.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "SMG"
+      }
+    ]
+  }
+}

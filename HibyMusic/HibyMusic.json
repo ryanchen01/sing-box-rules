@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "hiby.cd",
+          "hiby.com",
+          "hibymusic.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "HibyMusic"
+      }
+    ]
+  }
+}

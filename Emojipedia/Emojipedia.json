@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "emojipedia.org",
+          "worldemojiawards.com",
+          "worldemojiday.com",
+          "xn--yt8h.la"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Emojipedia"
+      }
+    ]
+  }
+}

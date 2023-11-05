@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "pddpic.com",
+          "pinduoduo.com",
+          "pinduoduo.net",
+          "yangkeduo.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Pinduoduo"
+      }
+    ]
+  }
+}

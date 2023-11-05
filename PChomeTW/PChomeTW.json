@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "ecapi-pchome.cdn.hinet.net",
+          "ecimg.tw",
+          "pchome.com.tw",
+          "pchomepay.com.tw",
+          "pcloud.tw"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "PChomeTW"
+      }
+    ]
+  }
+}

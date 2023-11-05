@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "chinauos.com",
+          "deepin.cn",
+          "deepin.com",
+          "deepin.io",
+          "deepin.org",
+          "linglong.dev",
+          "uniontech.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Deepin"
+      }
+    ]
+  }
+}

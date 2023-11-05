@@ -1,0 +1,26 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "slack-core.com",
+          "slack-edge.com",
+          "slack-files.com",
+          "slack-imgs.com",
+          "slack-msgs.com",
+          "slack-redir.net",
+          "slack.com",
+          "slackb.com",
+          "slackcertified.com",
+          "slackdemo.com",
+          "slackhq.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Slack"
+      }
+    ]
+  }
+}

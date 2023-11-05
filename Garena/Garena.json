@@ -1,0 +1,32 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "avatargarenanow-a.akamaihd.net",
+          "cdngarenanow-a.akamaihd.net",
+          "dlmobilegarena-a.akamaihd.net",
+          "garena.co.id",
+          "garena.co.th",
+          "garena.com",
+          "garena.live",
+          "garena.my",
+          "garena.ph",
+          "garena.sg",
+          "garena.tv",
+          "garena.tw",
+          "garena.vn",
+          "garenanow.com",
+          "seagroup.com"
+        ],
+        "domain": [
+          "dlgarenanow-a.akamaihd.net"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Garena"
+      }
+    ]
+  }
+}

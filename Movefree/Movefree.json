@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "keepmovingwithmovefree.com",
+          "move-free.net",
+          "movefree.cn",
+          "movefreeoffers.com",
+          "movefreerewards.com",
+          "movefrees.com",
+          "schiffvitamins.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Movefree"
+      }
+    ]
+  }
+}

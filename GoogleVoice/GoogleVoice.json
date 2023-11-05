@@ -1,0 +1,16 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [
+          "lens.l.google.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "GoogleVoice"
+      }
+    ]
+  }
+}

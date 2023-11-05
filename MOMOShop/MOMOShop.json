@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "momo.dm",
+          "momo5188.com",
+          "momomall.com.tw",
+          "momoshop.com.tw"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "MOMOShop"
+      }
+    ]
+  }
+}

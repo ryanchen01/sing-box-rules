@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "bb-static.com",
+          "bbc.co.uk",
+          "britbox.co.uk",
+          "britbox.com",
+          "itv.com",
+          "massive-itv.com"
+        ],
+        "domain": [
+          "itvpnp.live.ott.irdeto.com",
+          "itvpnp.stage.ott.irdeto.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "BritboxUK"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "chaba123.com",
+          "jjwxc.cn",
+          "jjwxc.com",
+          "jjwxc.net",
+          "jjwxc.org",
+          "jjycw.net",
+          "robook.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [
+          "com.jjwxc.reader"
+        ],
+        "outbound": "JinJiangWenXue"
+      }
+    ]
+  }
+}

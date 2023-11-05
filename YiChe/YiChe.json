@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "bitauto.com",
+          "bitautoimg.com",
+          "cheyisou.com",
+          "yccdn.com",
+          "yiche.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "YiChe"
+      }
+    ]
+  }
+}

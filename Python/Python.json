@@ -1,0 +1,21 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "pycon.org",
+          "pypa.io",
+          "pypi.io",
+          "pypi.org",
+          "python.org",
+          "pythonhosted.org"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Python"
+      }
+    ]
+  }
+}

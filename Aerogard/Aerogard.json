@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "aerogard.com.au",
+          "aerogard.com.cn",
+          "aerogardcn.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Aerogard"
+      }
+    ]
+  }
+}

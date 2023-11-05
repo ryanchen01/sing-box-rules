@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "cwseed.com",
+          "cwtv.com",
+          "thecwvideo.com"
+        ],
+        "domain": [
+          "cwtv-amd-akamai.akamaized.net",
+          "edge.cwtv-vod-ext.top.comcast.net"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [
+          "com.cw.fullepisodes.android",
+          "com.cw.seed.android"
+        ],
+        "outbound": "CWSeed"
+      }
+    ]
+  }
+}

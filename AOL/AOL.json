@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "aol.ca",
+          "aol.co.uk",
+          "aol.com",
+          "aolnews.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "AOL"
+      }
+    ]
+  }
+}

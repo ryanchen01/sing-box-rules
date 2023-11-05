@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "multiplay.cn",
+          "unity.cn",
+          "unity.com",
+          "unity3d.com",
+          "unity3dusercontent.com",
+          "unitychina.cn",
+          "unityedu.cn",
+          "unityedu.com",
+          "unityedu.com.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Unity"
+      }
+    ]
+  }
+}

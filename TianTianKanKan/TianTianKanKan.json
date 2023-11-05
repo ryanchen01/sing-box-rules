@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "ibangtiao.com",
+          "kankanpro.cn",
+          "kkstudy.cn",
+          "taogepian.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "TianTianKanKan"
+      }
+    ]
+  }
+}

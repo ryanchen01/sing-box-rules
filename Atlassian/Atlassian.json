@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "atlassian.com",
+          "atlassian.net",
+          "bitbucket.io",
+          "bitbucket.org",
+          "statuspage.io",
+          "trello.com",
+          "trellocdn.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Atlassian"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "bubuying.net",
+          "kuaishuru.net",
+          "mdvdns.com",
+          "mediav.com",
+          "mvad.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ShangHaiJuXiao"
+      }
+    ]
+  }
+}

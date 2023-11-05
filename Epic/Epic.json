@@ -1,0 +1,32 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "battlebreakers.com",
+          "eac-cdn.com",
+          "easy.ac",
+          "easyanticheat.net",
+          "epicgames.com",
+          "epicgames.dev",
+          "fortnite.com",
+          "helpshift.com",
+          "paragon.com",
+          "playparagon.com",
+          "roborecall.com",
+          "shadowcomplex.com",
+          "spyjinx.com",
+          "unrealengine.com",
+          "unrealtournament.com"
+        ],
+        "domain": [],
+        "domain_keyword": [
+          "epicgames"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Epic"
+      }
+    ]
+  }
+}

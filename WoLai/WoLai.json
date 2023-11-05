@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "wol.tv",
+          "wolai.com",
+          "wolai.ren",
+          "wostatic.cn",
+          "woyun.work"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "WoLai"
+      }
+    ]
+  }
+}

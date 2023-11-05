@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "huya.com",
+          "huyagame.cn",
+          "msstatic.com",
+          "peiwanlu.com",
+          "snapplay.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "HuYa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "178.com",
+          "nga.cn",
+          "ngabbs.com",
+          "ngacn.cc"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "NGA"
+      }
+    ]
+  }
+}

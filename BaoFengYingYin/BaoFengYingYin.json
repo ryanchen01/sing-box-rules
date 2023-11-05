@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "baofeng.com",
+          "baofeng.mobi",
+          "baofeng.net",
+          "baofengtv.com",
+          "bfimg.com",
+          "bfshow.cn",
+          "bjtndao.org",
+          "stormshow.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "BaoFengYingYin"
+      }
+    ]
+  }
+}

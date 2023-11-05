@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "biggggg.com",
+          "mudvod.tv",
+          "nbys.tv",
+          "nbys1.tv",
+          "nbyy.tv",
+          "newpppp.com",
+          "vod360.net"
+        ],
+        "domain": [],
+        "domain_keyword": [
+          "nivod"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "NivodTV"
+      }
+    ]
+  }
+}

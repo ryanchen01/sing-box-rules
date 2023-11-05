@@ -1,0 +1,16 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [],
+        "domain_keyword": [
+          "roblox"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Roblox"
+      }
+    ]
+  }
+}

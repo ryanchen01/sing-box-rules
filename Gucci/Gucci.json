@@ -1,0 +1,21 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "chimeforchange.org",
+          "gucci.cn",
+          "gucci.com",
+          "guccimuseo.com",
+          "guccitimeless.com",
+          "regiongold.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Gucci"
+      }
+    ]
+  }
+}

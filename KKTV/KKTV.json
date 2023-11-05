@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "kktv.com.tw",
+          "kktv.me"
+        ],
+        "domain": [
+          "kktv-theater.kk.stream",
+          "theater-kktv.cdn.hinet.net"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "KKTV"
+      }
+    ]
+  }
+}

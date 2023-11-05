@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [
+          "amp-api.fitness.apple.com",
+          "hls-svod.itunes.apple.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "FitnessPlus"
+      }
+    ]
+  }
+}

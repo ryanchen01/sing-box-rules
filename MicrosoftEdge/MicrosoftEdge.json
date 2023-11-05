@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [
+          "edge.activity.windows.com",
+          "edge.microsoft.com",
+          "iecvlist.microsoft.com",
+          "msedge.api.cdp.microsoft.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "MicrosoftEdge"
+      }
+    ]
+  }
+}

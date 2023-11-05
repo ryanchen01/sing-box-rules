@@ -1,0 +1,21 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "pics.ee",
+          "picsee.co",
+          "picsee.pro",
+          "pise.pw",
+          "pros.ee",
+          "pse.is"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Picsee"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "17u.cn",
+          "17u.net",
+          "17usoft.com",
+          "17usoft.net",
+          "40017.cn",
+          "elong.com",
+          "elongstatic.com",
+          "ly.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "TongCheng"
+      }
+    ]
+  }
+}

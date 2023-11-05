@@ -1,0 +1,26 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "japonx.com",
+          "japonx.net",
+          "japonx.tv",
+          "japonx.vip",
+          "japronx.com",
+          "japronx.net",
+          "japronx.tv",
+          "japronx.vip"
+        ],
+        "domain": [],
+        "domain_keyword": [
+          "japonx",
+          "japronx"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Japonx"
+      }
+    ]
+  }
+}

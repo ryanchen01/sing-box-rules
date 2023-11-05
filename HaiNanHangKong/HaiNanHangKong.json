@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "10044.cn",
+          "hainanairlines.com",
+          "hnacargo.com",
+          "hnair.com",
+          "hnair.net"
+        ],
+        "domain": [],
+        "domain_keyword": [
+          "hnagroup"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "HaiNanHangKong"
+      }
+    ]
+  }
+}

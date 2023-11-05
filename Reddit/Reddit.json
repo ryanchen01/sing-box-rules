@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "redd.it",
+          "reddit.com",
+          "redditmail.com",
+          "redditmedia.com",
+          "redditstatic.com",
+          "reddituploads.com",
+          "reddituploads.com.cdn-cf.behance.net",
+          "reddituploads.com.cdn-cf.dropbox.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Reddit"
+      }
+    ]
+  }
+}

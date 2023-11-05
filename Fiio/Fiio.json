@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "fiio.cn",
+          "fiio.com",
+          "fiio.com.cn",
+          "fiio.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Fiio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "51kanmanhua.com",
+          "mkdata.top",
+          "mkpush.com",
+          "mkzcdn.com",
+          "mkzhan.cn",
+          "mkzhan.com",
+          "mkzhan.com.cn",
+          "mkzhan.net",
+          "xiaomingtaiji.cc",
+          "xiaomingtaiji.cn",
+          "xiaomingtaiji.com",
+          "xiaomingtaiji.com.cn",
+          "xiaomingtaiji.net",
+          "xiaoshuohui.com.cn",
+          "xiaoshuohui.net",
+          "zymk.cn",
+          "zymkcdn.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ZhiYinManKe"
+      }
+    ]
+  }
+}

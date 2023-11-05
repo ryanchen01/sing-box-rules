@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [
+          "182.162.132.1/32",
+          "185.60.112.157/32",
+          "185.60.112.158/32",
+          "24.105.30.129/32"
+        ],
+        "process_name": [],
+        "outbound": "Hearthstone"
+      }
+    ]
+  }
+}

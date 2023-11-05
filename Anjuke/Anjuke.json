@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "aifang.com",
+          "aifcdn.com",
+          "ajkinclude.com",
+          "anjuke.cn",
+          "anjuke.com",
+          "anjukestatic.com",
+          "jikejia.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Anjuke"
+      }
+    ]
+  }
+}

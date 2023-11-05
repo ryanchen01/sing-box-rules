@@ -1,0 +1,21 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "dogatch.jp",
+          "edge.api.brightcove.com",
+          "gorin.jp",
+          "screens-lab.jp",
+          "tver.co.jp",
+          "tver.jp"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "TVer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [
+          "91.108.12.0/22",
+          "2001:b28:f23d::/48"
+        ],
+        "process_name": [],
+        "outbound": "TelegramUS"
+      }
+    ]
+  }
+}

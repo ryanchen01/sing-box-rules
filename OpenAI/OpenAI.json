@@ -1,0 +1,31 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "ai.com",
+          "auth0.com",
+          "challenges.cloudflare.com",
+          "client-api.arkoselabs.com",
+          "events.statsigapi.net",
+          "featuregates.org",
+          "identrust.com",
+          "intercom.io",
+          "intercomcdn.com",
+          "poe.com",
+          "sentry.io",
+          "stripe.com"
+        ],
+        "domain": [
+          "ai.cn"
+        ],
+        "domain_keyword": [
+          "openai"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "OpenAI"
+      }
+    ]
+  }
+}

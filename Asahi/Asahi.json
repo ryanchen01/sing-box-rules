@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "aiasahi.jp",
+          "asagaku.com",
+          "asahi.com",
+          "asahicom.jp",
+          "asakonet.co.jp",
+          "nikkansports.com"
+        ],
+        "domain": [
+          "asahishimbun.sc.omtrdc.net"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Asahi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "api.tv.colnv.com",
+          "italkbb.com",
+          "italkbbtv.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [
+          "com.italkbbtv.phone"
+        ],
+        "outbound": "iTalkBB"
+      }
+    ]
+  }
+}

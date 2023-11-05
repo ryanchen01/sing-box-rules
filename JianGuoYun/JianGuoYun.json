@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "gdfgq.club",
+          "jianguopuzi.com",
+          "jianguoyun.com",
+          "nutstore.net",
+          "nutstorehq.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "JianGuoYun"
+      }
+    ]
+  }
+}

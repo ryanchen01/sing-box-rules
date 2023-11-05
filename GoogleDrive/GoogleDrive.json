@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "docs.google.com",
+          "drive.google.com",
+          "googledrive.com",
+          "googleusercontent.com"
+        ],
+        "domain": [
+          "www.googleapis.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [
+          "BackupandSync"
+        ],
+        "outbound": "GoogleDrive"
+      }
+    ]
+  }
+}

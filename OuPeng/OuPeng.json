@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "adbxb.cn",
+          "adbxb.com",
+          "opfed.com",
+          "opthink.cn",
+          "oupeng.com",
+          "oupeng.net.cn",
+          "oupeng9.com",
+          "oupengcloud.cn",
+          "oupengcloud.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "OuPeng"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "juangua.com",
+          "linkeye.net",
+          "meili-inc.com",
+          "mogu.com",
+          "mogucdn.com",
+          "mogujie.com",
+          "mogujielive.com",
+          "styledata.cn",
+          "uniny.com",
+          "xdgogogo.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Mogujie"
+      }
+    ]
+  }
+}

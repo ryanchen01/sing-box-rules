@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "amd.com",
+          "amd.com.cn",
+          "amdfanstore.com",
+          "radeon.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "AMD"
+      }
+    ]
+  }
+}

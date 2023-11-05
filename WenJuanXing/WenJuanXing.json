@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "sojump.com",
+          "wjx.cn",
+          "wjx.com",
+          "wjx.top"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "WenJuanXing"
+      }
+    ]
+  }
+}

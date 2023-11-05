@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "download.synology.com",
+          "quickconnect.com",
+          "quickconnect.to"
+        ],
+        "domain": [
+          "account.synology.com",
+          "global.quickconnect.cn",
+          "sns.synology.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "QuickConnect"
+      }
+    ]
+  }
+}

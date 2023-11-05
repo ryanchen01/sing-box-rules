@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "dishworld.com",
+          "movenetworks.com",
+          "movetv.com",
+          "sling.com",
+          "slinginternational.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Sling"
+      }
+    ]
+  }
+}

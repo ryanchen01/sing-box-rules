@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "imgsmail.ru",
+          "mail.ru",
+          "mycdn.me"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Mailru"
+      }
+    ]
+  }
+}

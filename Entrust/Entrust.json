@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "affirmtrust.com",
+          "atos.net",
+          "certificat2.com",
+          "entrust.net",
+          "entrustdatacard.com",
+          "myatos.net",
+          "trendmicro.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Entrust"
+      }
+    ]
+  }
+}

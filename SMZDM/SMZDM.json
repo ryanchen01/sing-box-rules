@@ -1,0 +1,24 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "faxianpindao.com",
+          "quaolai.com",
+          "smzdm.com",
+          "smzdmimg.com",
+          "valueq-sea.com",
+          "wanwuzhinan.com",
+          "zdm.net",
+          "zdmimg.com",
+          "zhidemai.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "SMZDM"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "fsdn.com",
+          "sf.net",
+          "sourceforge.com",
+          "sourceforge.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "SourceForge"
+      }
+    ]
+  }
+}

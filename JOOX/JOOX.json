@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "joox.com"
+        ],
+        "domain": [],
+        "domain_keyword": [
+          "jooxweb-api"
+        ],
+        "ip_cidr": [],
+        "process_name": [
+          "com.tencent.ibg.joox"
+        ],
+        "outbound": "JOOX"
+      }
+    ]
+  }
+}

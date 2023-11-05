@@ -1,0 +1,25 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "tv.apple.com"
+        ],
+        "domain": [
+          "hls-amt.itunes.apple.com",
+          "hls.itunes.apple.com",
+          "np-edge.itunes.apple.com",
+          "play-edge.itunes.apple.com",
+          "tv.applemusic.com",
+          "uts-api.itunes.apple.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [
+          "TV"
+        ],
+        "outbound": "AppleTV"
+      }
+    ]
+  }
+}

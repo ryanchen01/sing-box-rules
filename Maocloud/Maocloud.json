@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "maoyun.com",
+          "maoyuncloud.cn",
+          "maoyuncloud.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Maocloud"
+      }
+    ]
+  }
+}

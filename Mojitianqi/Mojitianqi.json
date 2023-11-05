@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "airnut.com",
+          "moji.com",
+          "mojicb.com",
+          "mojichina.com",
+          "mojitest.com",
+          "moweather.com",
+          "xiaomo.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Mojitianqi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "ele.me",
+          "ele.to",
+          "eleme.cn",
+          "eleme.com.cn",
+          "eleme.io",
+          "elemecdn.cn",
+          "elemecdn.com",
+          "elenet.me",
+          "fengniaopaotui.cn",
+          "fengniaozhongbao.cn",
+          "xingxuanwaimai.com",
+          "xyzele.com",
+          "youcaishop.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Eleme"
+      }
+    ]
+  }
+}

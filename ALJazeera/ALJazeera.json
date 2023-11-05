@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "ajplus.net",
+          "aljazeera.com",
+          "aljazeera.net",
+          "palestineremix.com",
+          "sarajevopodopsadom.com",
+          "srebrenica360.com",
+          "syhacked.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ALJazeera"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "freshhema.com",
+          "hemaapi.cn",
+          "hemamax.com",
+          "hemaopen.cn",
+          "hemaos.com",
+          "hemashare.cn",
+          "marioall.com",
+          "marioin.com",
+          "mariowap.com",
+          "rexpos.cn",
+          "rextech.cn",
+          "shyhhema.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "HeMa"
+      }
+    ]
+  }
+}

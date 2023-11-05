@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "ebi.ac.uk",
+          "embl-hamburg.de",
+          "embl.de",
+          "embl.fr",
+          "embl.it",
+          "embl.org",
+          "emblstatic.net"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Embl"
+      }
+    ]
+  }
+}

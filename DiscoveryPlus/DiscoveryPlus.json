@@ -1,0 +1,31 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "disco-api.com",
+          "discovery.com",
+          "discoveryplus.co.uk",
+          "discoveryplus.com",
+          "discoveryplus.in",
+          "dnitv.com",
+          "fwmrm.net",
+          "getblueshift.com",
+          "litix.io",
+          "mobile-collector.newrelic.com",
+          "uplynk.com"
+        ],
+        "domain": [
+          "discovery-us.conax.cloud",
+          "dplus-northamerica.media-edge.prod-vod.h264.io"
+        ],
+        "domain_keyword": [
+          "discovery.uplynk.com"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "DiscoveryPlus"
+      }
+    ]
+  }
+}

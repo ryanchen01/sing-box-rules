@@ -1,0 +1,23 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "anticheatexpert.com",
+          "centauriglobal.com",
+          "gamepass.com",
+          "iegcom.com",
+          "intlgame.com",
+          "nikke-kr.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [
+          "43.152.114.31/32"
+        ],
+        "process_name": [],
+        "outbound": "Nikke"
+      }
+    ]
+  }
+}

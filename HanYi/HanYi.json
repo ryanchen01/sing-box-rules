@@ -1,0 +1,26 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "fontstar.com.cn",
+          "fontstudio.cn",
+          "hanyi.com",
+          "hanyi.com.cn",
+          "hellofont.cn",
+          "hellowebfont.com",
+          "ifont.cn",
+          "joytype.com"
+        ],
+        "domain": [
+          "hellofontpreview.oss-cn-beijing.aliyuncs.com",
+          "hellowebfonts.oss-cn-beijing.aliyuncs.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "HanYi"
+      }
+    ]
+  }
+}

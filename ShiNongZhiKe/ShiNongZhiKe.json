@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "senseagro.cn",
+          "senseagro.com",
+          "senseagro.com.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "ShiNongZhiKe"
+      }
+    ]
+  }
+}

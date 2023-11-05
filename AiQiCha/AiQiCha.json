@@ -1,0 +1,16 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "aiqicha.baidu.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "AiQiCha"
+      }
+    ]
+  }
+}

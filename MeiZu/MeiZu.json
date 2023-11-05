@@ -1,0 +1,30 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "flyme.cn",
+          "flyme.com",
+          "flyme.net",
+          "flymeauto.com",
+          "lipro.com",
+          "lipro.net",
+          "mblu.com",
+          "meiklife.cn",
+          "meizu.cn",
+          "meizu.com",
+          "meizu.com.hk",
+          "meizuapi.com",
+          "mklink.com.cn",
+          "mzres.com",
+          "mzssp.cn"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "MeiZu"
+      }
+    ]
+  }
+}

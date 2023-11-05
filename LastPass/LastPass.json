@@ -1,0 +1,18 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "lastpass.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [
+          "LastPass"
+        ],
+        "outbound": "LastPass"
+      }
+    ]
+  }
+}

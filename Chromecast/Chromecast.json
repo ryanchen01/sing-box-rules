@@ -1,0 +1,16 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [],
+        "domain_keyword": [
+          "pa.google"
+        ],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Chromecast"
+      }
+    ]
+  }
+}

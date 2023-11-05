@@ -1,0 +1,17 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "cybertrust.co.jp",
+          "cybertrust.ne.jp"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "CyberTrust"
+      }
+    ]
+  }
+}

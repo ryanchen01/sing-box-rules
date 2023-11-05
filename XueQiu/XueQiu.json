@@ -1,0 +1,26 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "aiganggu.com",
+          "danjuanapp.com",
+          "danjuanfunds.com",
+          "iganggu.com",
+          "imedao.com",
+          "imeigu.cn",
+          "imeigu.com.cn",
+          "ncfjj.com",
+          "snowballfinance.com",
+          "snowballsecurities.com",
+          "xueqiu.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "XueQiu"
+      }
+    ]
+  }
+}

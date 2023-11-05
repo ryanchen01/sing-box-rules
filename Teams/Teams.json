@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "teams.cdn.live.net",
+          "teams.live.com",
+          "teams.microsoft.com"
+        ],
+        "domain": [
+          "teams.events.data.microsoft.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Teams"
+      }
+    ]
+  }
+}

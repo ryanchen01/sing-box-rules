@@ -1,0 +1,20 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [
+          "amplitude.com",
+          "firebaseio.com",
+          "hockeyapp.net",
+          "readdle.com",
+          "smartmailcloud.com"
+        ],
+        "domain": [],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "Spark"
+      }
+    ]
+  }
+}

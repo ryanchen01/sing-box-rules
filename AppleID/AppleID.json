@@ -1,0 +1,19 @@
+{
+  "route": {
+    "rules": [
+      {
+        "domain_suffix": [],
+        "domain": [
+          "appleid.apple.com",
+          "appleid.cdn-apple.com",
+          "gsa.apple.com",
+          "idmsa.apple.com"
+        ],
+        "domain_keyword": [],
+        "ip_cidr": [],
+        "process_name": [],
+        "outbound": "AppleID"
+      }
+    ]
+  }
+}
